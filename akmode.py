@@ -33,7 +33,7 @@ REQUIRED_CHANNELS = [
    # "@fasttech3",
    #"@PROFESSORXRIZY",
     "@h2icoder",
-    "@AkMoDsDealPr00f"
+    "@AkMoDsDealPr00f",
     "@freeotpss"
 ]
    # "@freeotpss"
