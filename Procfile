@@ -1,1 +1,1 @@
-web: python hat2.py
+web: python akmode.py
