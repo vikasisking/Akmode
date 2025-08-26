@@ -34,6 +34,7 @@ REQUIRED_CHANNELS = [
    #"@PROFESSORXRIZY",
     "@h2icoder",
     "@AkMoDsDealPr00f"
+    "@freeotpss"
 ]
    # "@freeotpss"
     #"@+pG-1Ka8IixthMzNk"
