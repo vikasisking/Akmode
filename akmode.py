@@ -23,7 +23,7 @@ ADMIN_IDs = int(os.getenv("ADMIN_IDs", 7761576669))  ## Add admin ID for /hiden_
 #ADMIN_IDS = [int(id) for id in os.getenv("ADMIN_IDS", "7761576669", "6884253109").split(",")]
 DEV_LINK = os.getenv("DEV_LINK", "https://t.me/hiden_25")
 CHANNEL_LINK = os.getenv("CHANNEL_LINK", "https://t.me/oldchannelbanned1")
-Support = os.getenv("Support", "https://t.me/oldchannelbanned1")
+Support = os.getenv("Support", "https://t.me/AkMoDs1Owner")
 # Required channels for force join
 REQUIRED_CHANNELS = [
     "@oldchannelbanned1",
@@ -371,7 +371,7 @@ async def send_number_message(query, data, country_id, carrier_id, changed=False
     keyboard = [
         [
             InlineKeyboardButton("📩 View OTP", url="https://t.me/AkMoDs1"),
-            InlineKeyboardButton("📢 Main Channel", url="https://t.me/AkMoDsOfficial1")
+            InlineKeyboardButton("📢 Main Channel", url="https://t.me/oldchannelbanned1")
         ],
         [
             InlineKeyboardButton("🔄 Change Number", callback_data="change_number")
